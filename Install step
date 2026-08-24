@@ -1,0 +1,14 @@
+C:\Users\hp>javac -version
+javac 21.0.12
+
+C:\Users\hp>echo %JAVA_HOME%
+%JAVA_HOME%
+
+C:\Users\hp>echo  %JAVA%
+ %JAVA%
+
+C:\Users\hp>echo %JAVA_HOME%
+%JAVA_HOME%
+
+C:\Users\hp>echo JAVA_HOME%
+JAVA_HOME%
