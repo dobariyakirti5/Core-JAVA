@@ -1,0 +1,6 @@
+4.Write a short note (2-3 sentences) explaining why Java is commonly used for test automation,
+giving at least one example of a popular automation tool or framework that uses Java.
+ANS=>
+Java is commonly used for test automation because it is platform-independent, object-oriented, and has strong support for
+automation libraries and frameworks. 
+Selenium WebDriver is a popular test automation tool that supports Java and is widely used for automating web applications.
