@@ -1,0 +1,35 @@
+| Feature      | JDK                               | JRE                                     | JVM                                         |
+| ------------ | --------------------------------- | --------------------------------------- | ------------------------------------------- |
+| Full form    | Java Development Kit              | Java Runtime Environment                | Java Virtual Machine                        |
+| Main purpose | Used to **develop Java programs** | Used to **run Java programs**           | Actually **executes Java bytecode**         |
+| Contains     | JRE + development tools           | JVM + libraries                         | Part of JRE                                 |
+| Used by      | Developers                        | Users who need to run Java applications | The system running Java code                |
+| Example      | `javac`, debugger, tools          | Java libraries + JVM                    | Converts bytecode into machine instructions |
+
+Easy real-world analogy
+
+1. JDK = Complete Toolkit :-
+Think of a mechanic's complete toolbox. It contains everything needed to build or repair something.
+=>Similarly, JDK provides everything a Java developer needs to write, compile, debug, and run Java programs.
+
+2. JRE = Workspace :-
+Think of a workshop where you have the environment and equipment needed to use something that has already been built.
+=> JRE provides the environment and libraries needed to run Java applications.
+
+3. JVM = Machine :-
+Think of a machine that takes a finished product and makes it work.
+=> JVM takes Java bytecode (.class) and executes it on the computer.
+
+Easy way to remember
+
+JDK → Develop
+JRE → Run
+JVM → Execute
+
+Relationship:
+
+JDK → JRE → JVM
+
+For example:
+
+Hello.java → JDK compiles → Hello.class → JVM executes → Output: Hello World
